@@ -36,6 +36,8 @@ def main(args):
         print(f'Mode: {mode(NUMBERS)}')
         print(f'Median: {median(NUMBERS)}')
 
+    print("My name is David RS")
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])
