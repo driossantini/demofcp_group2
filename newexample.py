@@ -36,7 +36,7 @@ def main(args):
         print(f'Mode: {mode(NUMBERS)}')
         print(f'Median: {median(NUMBERS)}')
 
-    print("My name is David RS")
+    print("My name is David RS example")
 
 
 if __name__ == "__main__":
